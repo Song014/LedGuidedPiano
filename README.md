@@ -22,9 +22,12 @@ LED를 점등시켜 사용자에게 타건위치를 표시해줌으로써 건반
 * Midi Piano 
 
 ## 과정
-
-
-
+* 시스템 구성도
+![시스템 구성도](https://user-images.githubusercontent.com/39858400/70323900-70bc9680-1871-11ea-81d1-b63a648de185.png)
+* 시스템 흐도
+![시스템 흐름](https://user-images.githubusercontent.com/39858400/70323904-72865a00-1871-11ea-9a88-133ddac3502a.png)
+* 회로도
+![회로도](https://user-images.githubusercontent.com/39858400/70323908-7619e100-1871-11ea-8d24-8ea68942e7c8.png)
 ## 업데이트 내역
 
 * 0.0.1
